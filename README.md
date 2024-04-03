@@ -1,7 +1,7 @@
 <header>
 
 <!--
-  <<< Author notes: Course header >>>
+  <<< NEW-BOOTY: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
@@ -14,13 +14,13 @@ _Get started using GitHub in less than an hour._
 </header>
 
 <!--
-  <<< Author notes: Finish >>>
+  <<< NEW-BOOTY: Finish >>>
   Review what we learned, ask for feedback, provide next steps.
 -->
 
 ## Finish
 
-_Congratulations, you've completed this course and joined the world of developers!_
+_Congratulations, NEW-BOOTY completed this course and joined the world of developers!_
 
 <img src=https://octodex.github.com/images/collabocats.jpg alt=celebrate width=300 align=right>
 
@@ -51,7 +51,7 @@ Check out these resources to learn more or get involved:
 <footer>
 
 <!--
-  <<< Author notes: Footer >>>
+  <<< NEW-BOOTY: Footer >>>
   Add a link to get support, GitHub status page, code of conduct, license link.
 -->
 
